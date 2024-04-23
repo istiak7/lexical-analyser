@@ -1,0 +1,25 @@
+#include<stdio.h>
+#include<conio.h>
+#include<ctype.h>
+#include<string.h>
+#include<stdlib.h>
+{]
+int keyword_library (char temp);
+{
+26 + 702 = 3  
+float a2b;
+167>=:
+/*
+int a, b, c;>=
+*/
+a = 10;
+a = b + c * b;
+}()
+/*
+}
+*/
+63
+/*
+*/
+//srtyrt
+a!=b
